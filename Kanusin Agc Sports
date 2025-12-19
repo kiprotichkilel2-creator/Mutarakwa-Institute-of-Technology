@@ -16,10 +16,21 @@
 </nav>
 <section id='Home>
 <h1>Vision</h1>
-<p></p>
+<p>Drive Sustainability of communities' sports and Talents development</p>
 </section>
-<section></section>
-<section></section>
+<section id='Activities'>
+<h2>Activities</h2>
+<ol>
+<li>Football</li>
+<p>Football, known as association football (or soccer in some regions), is the world's most popular sport, played between two teams of 11 players who try to maneuver a spherical ball into the opponent's goal primarily using their feet. The team with more goals at the end of the match wins. </p>
+<li></li>
+<p></p>
+li></li>
+<p></p>
+</ol>
+</section>
+<section>
+</section>
 <section></section>
 </body>
 <footer></footer>
